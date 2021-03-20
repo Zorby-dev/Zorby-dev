@@ -7,9 +7,9 @@
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
 [github]: https://www.github.com/
-[git]: https://git-scm.com/
-[afdesigner]: https://affinity.serif.com/en-us/designer/
-[afphoto]: https://affinity.serif.com/en-us/photo/
+[tortoisegit]: https://tortoisegit.org/
+[trello]: https://trello.com/
+[eclipse]: https://www.eclipse.org/
 
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm Zorby</h1>
@@ -27,10 +27,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>][trello]
 [<img src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" alt="Eclipse IDE" width="40" height="40"/>][eclipse]
 
-### Spotify 🎧
-[![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id)
-
 ### Github Stats 📄
 ![Zorby's Github Stats](https://github-readme-stats.vercel.app/api?username=Zorby-dev&theme=dark&count_private=true&show_icons=true)
 
-![Zorby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorby-dev&layout=compact&theme=dark)
+![Zorby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorby-dev&layout=normal&theme=dark)
