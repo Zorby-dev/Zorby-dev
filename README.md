@@ -1,16 +1,36 @@
-### Hi there 👋
+<!-- Languages -->
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
+[markdown]: https://www.markdownguide.org/
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
 
-<!--
-**Zorby-dev/Zorby-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Tools -->
+[vscode]: https://code.visualstudio.com/
+[github]: https://www.github.com/
+[git]: https://git-scm.com/
+[afdesigner]: https://affinity.serif.com/en-us/designer/
+[afphoto]: https://affinity.serif.com/en-us/photo/
 
-Here are some ideas to get you started:
+<!-- Title -->
+<h1 align="center">Hey! 👋 I'm Zorby</h1>
+<h3 align="center">I am a developer and sometimes gamer. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://civilization.com/">Civilaztion VI</a>.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I'm Familiar With 👨‍💻
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>][python]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>][c]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>][java]
+
+### Technologies I'm Familiar With 🔧
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
+[<img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/05/TortoiseGit_logo.svg1_.png" alt="Tortoise Git" width="40" height="40"/>][tortoisegit]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>][github]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>][trello]
+[<img src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" alt="Eclipse IDE" width="40" height="40"/>][eclipse]
+
+### Spotify 🎧
+[![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id)
+
+### Github Stats 📄
+![Zorby's Github Stats](https://github-readme-stats.vercel.app/api?username=Zorby-dev&theme=dark&count_private=true&show_icons=true)
+
+![Zorby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorby-dev&layout=compact&theme=dark)
