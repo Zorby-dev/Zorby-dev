@@ -6,7 +6,7 @@
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
 [github]: https://www.github.com/
-[tortoisegit]: https://tortoisegit.org/
+[git]: https://git-scm.com/
 [trello]: https://trello.com/
 [eclipse]: https://www.eclipse.org/
 
@@ -21,7 +21,7 @@
 
 ### Technologies I'm Familiar With 🔧
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
-[<img src="https://listimg.pinclipart.com/picdir/s/117-1177522_tortoisegit-tortoise-svn-logo-png-clipart.png" alt="Tortoise Git" width="40" height="40"/>][tortoisegit]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Tortoise Git" width="40" height="40"/>][git]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>][github]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>][trello]
 [<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse IDE" width="40" height="40"/>][eclipse]
