@@ -1,8 +1,7 @@
 <!-- Languages -->
-[html]: https://en.wikipedia.org/wiki/HTML
-[css]: https://en.wikipedia.org/wiki/CSS
-[markdown]: https://www.markdownguide.org/
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[python]: https://www.python.org/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[java]: https://www.java.com/
 
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
