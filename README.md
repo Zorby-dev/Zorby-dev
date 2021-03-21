@@ -29,4 +29,4 @@
 ### Github Stats 📄
 ![Zorby's Github Stats](https://github-readme-stats.vercel.app/api?username=Zorby-dev&theme=dark&count_private=true&show_icons=true)
 
-![Zorby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorby-dev&layout=normal&theme=dark)
+![Zorby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorby-dev&layout=compact&theme=dark)
