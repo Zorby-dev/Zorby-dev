@@ -2,6 +2,8 @@
 [python]: https://www.python.org/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [java]: https://www.java.com/
+[js]: https://www.javascript.com/
+[ts]: https://www.typescriptlang.org/
 
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
@@ -18,6 +20,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>][python]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>][c]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>][java]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>][js]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="JS" width="40" height="40"/>][ts]
 
 ### Technologies I'm Familiar With 🔧
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
